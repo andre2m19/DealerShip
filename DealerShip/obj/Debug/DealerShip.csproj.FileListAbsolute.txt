@@ -1,0 +1,17 @@
+C:\Users\Andre\Desktop\DealerShip\DealerShip\DealerShip\bin\Debug\DealerShip.exe.config
+C:\Users\Andre\Desktop\DealerShip\DealerShip\DealerShip\bin\Debug\DealerShip.exe
+C:\Users\Andre\Desktop\DealerShip\DealerShip\DealerShip\bin\Debug\DealerShip.pdb
+C:\Users\Andre\Desktop\DealerShip\DealerShip\DealerShip\bin\Debug\EntityFramework.dll
+C:\Users\Andre\Desktop\DealerShip\DealerShip\DealerShip\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andre\Desktop\DealerShip\DealerShip\DealerShip\bin\Debug\EntityFramework.xml
+C:\Users\Andre\Desktop\DealerShip\DealerShip\DealerShip\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andre\Desktop\DealerShip\DealerShip\DealerShip\obj\Debug\DealerShip.csprojAssemblyReference.cache
+C:\Users\Andre\Desktop\DealerShip\DealerShip\DealerShip\obj\Debug\DealerShip.Form1.resources
+C:\Users\Andre\Desktop\DealerShip\DealerShip\DealerShip\obj\Debug\DealerShip.Properties.Resources.resources
+C:\Users\Andre\Desktop\DealerShip\DealerShip\DealerShip\obj\Debug\DealerShip.csproj.GenerateResource.cache
+C:\Users\Andre\Desktop\DealerShip\DealerShip\DealerShip\obj\Debug\DealerShip.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\DealerShip\DealerShip\DealerShip\obj\Debug\DealerShip.csproj.CopyComplete
+C:\Users\Andre\Desktop\DealerShip\DealerShip\DealerShip\obj\Debug\DealerShip.exe
+C:\Users\Andre\Desktop\DealerShip\DealerShip\DealerShip\obj\Debug\DealerShip.pdb
+C:\Users\Andre\Desktop\DealerShip\DealerShip\DealerShip\obj\Debug\DealerShip.GestaoCliente.resources
+C:\Users\Andre\Desktop\DealerShip\DealerShip\DealerShip\obj\Debug\DealerShip.GestaoOficina.resources
